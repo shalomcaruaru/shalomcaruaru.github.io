@@ -1,6 +1,6 @@
-## Um título
+## Doações
 
-Proin eu justo viverra, malesuada quam sit amet, lacinia lorem. Nulla suscipit risus interdum nibh suscipit vehicula. Nullam condimentum nunc id venenatis rutrum. Vestibulum suscipit mi tempor varius convallis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.
+Nossa comunidade é sustentada pela Divina Providência, manifestada pela partilha de bens e de dons. Nossos trabalhos sociais e de evangelização são mantidos através de doações. Caso deseje nos apoiar, sua doação pode ser feita através de depósito bancário conforme dados abaixo:
 
 ### Banco X
 **Conta:** XXXX<br>
